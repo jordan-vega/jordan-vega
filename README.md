@@ -1,4 +1,4 @@
 
 <h1>IM JR7</h1>
 
-<img=https://imgur.com/a/94GXmEm>
+<img src="paisaje.jpg" alt="Paisaje de montaña con un lago" width="400">
